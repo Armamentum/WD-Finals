@@ -135,4 +135,4 @@ WD-Finals
 
 | Title | Purpose | Link |
 |-|-|-|
-| cn logo | cartoon network logo for landing page on header and footer | [brandslogos.com](https://images.app.goo.gl/JDynRfaaqkHiVsJc8) |
+| Cartoon Network Logo | Cartoon Network logo for landing page on header and footer | [brandslogos.com](https://images.app.goo.gl/JDynRfaaqkHiVsJc8) |
