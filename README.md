@@ -146,11 +146,8 @@ WD-Finals
 | Tool for Removing Background from Images | Online tool to remove background from images | [remove.bg](https://www.remove.bg/) |
 | resources logos | logos for the resources used | [google.com](https://www.google.com) |
 | FAQs | sample questions and answers for FAQs | [google.com](https://www.google.com) |
-
 | portfolio v1 | screenshot for projects page | [google.com](https://github.com/Armamentum/WD-Resume-Armamento) |
-
 | Header and Footer | screenshot for projects page | [google.com](https://github.com/Armamentum/WD-Seatwork-3) |
-
 | Featrue display | screenshot for projects page | [google.com](https://github.com/Armamentum/WD-SEATWORK-4) |
 
 
