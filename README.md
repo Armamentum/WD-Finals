@@ -91,6 +91,7 @@ WD-Finals
 │           └── fileWith.jpeg/.jpg/.webp/.png
 |
 ├── pages/
+|   ├──about/
 │   │   └── assets/
 │   │   |   ├── css/
 │   │   |   │   └── style.css
