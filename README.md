@@ -135,9 +135,10 @@ WD-Finals
 |
 ├── index.html
 └── readme.md
+```
 
 ## Resources
 
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Logo__1_-removebg-preview.png | logo for header and readme | [canva.com] (https://www.canva.com/) |
