@@ -52,13 +52,18 @@
 
 Welcome to my personal portfolio and resume website! I am a first-year BS Cybersecurity student at FEU Tech with a passion for web development and a keen interest in creating secure, user-friendly digital experiences. This site serves as a comprehensive showcase of my skills, projects, and professional journey.
 
-### Key Components
-
 - About Me: Learn more about my background, education, and the journey that led me to pursue a degree in Cybersecurity. Discover the values and motivations that drive my passion for technology and web development.
 
 - Projects: Delve into my portfolio of projects, each reflecting my dedication to creating secure and innovative web solutions. I provide detailed descriptions, technologies used, and the challenges I overcame in each project.
 
 - Resume: Access my resume to get a concise overview of my academic achievements, professional experiences, and relevant certifications. A downloadable version of my resume is available for your convenience.
+
+### Key Components
+
+- Multipage Website
+- Responsive Website
+
+
 
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -135,4 +140,4 @@ WD-Finals
 
 | Title | Purpose | Link |
 |-|-|-|
-| Logo__1_-removebg-preview.png | logo for header and readme | [canva.com] (https://www.canva.com/) |
+| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
