@@ -135,4 +135,4 @@ WD-Finals
 
 | Title | Purpose | Link |
 |-|-|-|
-| Cartoon Network Logo | Cartoon Network logo for landing page on header and footer | [brandslogos.com](https://images.app.goo.gl/JDynRfaaqkHiVsJc8) |
+| Logo__1_-removebg-preview.png | logo for header and readme | [canva.com] (https://www.canva.com/) |
